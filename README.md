@@ -7,7 +7,7 @@ I used Visual Studio as my code editor. You can install [Visual Studio](https://
 # [Youtube Vedio Demo]()
 
 # **Contact**
-I am ready to answer any questions of comments you might have on these modules. 
+I am ready to answer any questions of comments you might have on this modules. 
 
 Feel free to email me at:
 [nya19001@byui.edu](https://outlook.office.com/mail/inbox)
