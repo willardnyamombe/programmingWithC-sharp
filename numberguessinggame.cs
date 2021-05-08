@@ -19,7 +19,7 @@ namespace FinalGuessinggame
             void gameInstruct()
             {
                 string name = getName();
-                Console.WriteLine(name + "! Lets play the game. All you need to do is guess an number betweeen 1 and 5");
+                Console.WriteLine("Hi, " + name + "! Lets play the game. All you need to do is guess an number betweeen 1 and 5");
             }
 
             void RandomGene()
